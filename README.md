@@ -11,7 +11,7 @@
 
 - Acessar o terminal
 - Acessar como usuário root por meio do comando: ``` sudo su ```
-- Iniciazilar a ferramenta setoolkit com o comando: ``` setoolkit ```
+- Inicializar a ferramenta setoolkit com o comando: ``` setoolkit ```
 - Selecionar o tipo de ataque por meio da opção número 1: ``` Social-Engineering Attacks ```
 - Selecionar o Vetor de ataque por meio da opção número 2: ``` Web Site Attack Vectors ```
 - Selecionar o Método de ataque por meio da opção 3 (que em uma explicação meio grosseira seria algo como realizar a "coleta" das credenciais do usuário: ```Credential Harvester Attack Method ```
