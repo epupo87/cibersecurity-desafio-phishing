@@ -16,7 +16,7 @@
 - Selecionar o Vetor de ataque por meio da opção número 2: ``` Web Site Attack Vectors ```
 - Selecionar o Método de ataque por meio da opção 3 (que em uma explicação meio grosseira seria algo como realizar a "coleta" das credenciais do usuário: ```Credential Harvester Attack Method ```
 - Selecionar o Método de ataque por meio da opção 2, objetivando criar uma cópia do site que será utilizado para realizar a coleta das credenciais de usuário: ``` Site Cloner ```
-- Obter o endereço da máquina - necessário endereçar para a ferramenta para onde as informações coletadas deverão ser enviadas. A ferramenta buscou a informação automaticamente: ``` ifconfig ```
+- Obter o endereço da máquina - necessário endereçar para a ferramenta para onde as informações coletadas deverão ser enviadas. A ferramenta buscou a informação automaticamente. Caso isso não fosse possível, as informações poderiam ser obtidas mediante a inserção do comando: ``` ifconfig ```
 - Informar URL da página que será clonada: http://www.facebook.com
 
 ### Resutados
