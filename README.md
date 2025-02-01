@@ -21,3 +21,4 @@
 
 ### Resutados
 
+Como era de se esperar, o resultado foi a captura das credenciais do usuário, sendo as mesmas enviadas diretamente para o servidor configurado na máquina Kali, pela ferramenta setoolkit.
