@@ -22,3 +22,5 @@
 ### Resutados
 
 Como era de se esperar, o resultado foi a captura das credenciais do usuário, sendo as mesmas enviadas diretamente para o servidor configurado na máquina Kali, pela ferramenta setoolkit.
+
+![VirtualBox_Kali_31 01 2025 - setoolkit](https://github.com/user-attachments/assets/b5b2d6c5-ef67-4347-b7d7-9d7e0354d8d6)
