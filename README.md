@@ -19,7 +19,7 @@
 - Obter o endereço da máquina - necessário endereçar para a ferramenta para onde as informações coletadas deverão ser enviadas. A ferramenta buscou a informação automaticamente. Caso isso não fosse possível, as informações poderiam ser obtidas mediante a inserção do comando: ``` ifconfig ```
 - Informar URL da página que será clonada: http://www.facebook.com
 
-### Resutados
+### Resultados
 
 Como era de se esperar, o resultado foi a captura das credenciais do usuário, sendo as mesmas enviadas diretamente para o servidor configurado na máquina Kali, pela ferramenta setoolkit.
 
